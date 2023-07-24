@@ -1,5 +1,9 @@
 # flutter_study
 
+### StatefulWidget의 생명주기
+<img width="400" alt="스크린샷 2023-07-24 오후 12 58 06" src="https://github.com/wjdansrl7/flutter_study/assets/48114924/e638c84f-e00b-4546-90bb-2d714ce2f397">
+
+
 ### splash screen
 #### spalsh screen clone coding
 <img src="https://github.com/wjdansrl7/flutter_study/assets/48114924/d136cb4c-db93-467d-abae-45f3199d6e6b" width = "200" height="400"/>
@@ -16,3 +20,4 @@
 <img src="https://github.com/wjdansrl7/flutter_study/assets/48114924/30481e7e-bd78-4952-8127-349f7e6a5951" width="200" height="400"/>
 <img src="https://github.com/wjdansrl7/flutter_study/assets/48114924/a58ec656-dc73-423c-b505-efa430112b8f" width="200" height="400"/>
 <img src="https://github.com/wjdansrl7/flutter_study/assets/48114924/d5ff969a-a59e-4096-813c-9a5e9d56390f" width="200" height="400"/>
+
