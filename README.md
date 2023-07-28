@@ -27,3 +27,12 @@
 <img src="https://github.com/wjdansrl7/flutter_study/assets/48114924/505724ba-2352-4cad-b14f-438b1291d60f" width="200" height="400"/>
 <img src="https://github.com/wjdansrl7/flutter_study/assets/48114924/a1afd250-c254-48e9-a182-4db09bd1c7d2" width="200" height="400"/>
 
+### video_player
+#### 비디오 플레이어 만들기 clone clong coding
+##### 사용한 component: Stack, Positioned, Align, image_pikcer 플러그인, video_player 플러그인, didUpdateWidget()
+<img src="https://github.com/wjdansrl7/flutter_study/assets/48114924/cab3d140-5438-455d-9bc5-7cdebd4543b4" width="200" height="400"/>
+<img src="https://github.com/wjdansrl7/flutter_study/assets/48114924/a2f06104-3db7-4c55-854f-ea3cb85be5e0" width="200" height="400"/>
+<img src="https://github.com/wjdansrl7/flutter_study/assets/48114924/6b974712-3079-4d8d-bf97-9a6e1c5194e0" width="200" height="400"/>
+
+
+
